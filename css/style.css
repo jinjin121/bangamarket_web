@@ -380,6 +380,7 @@
 
 .footer .footerIn {
     background-color: var(--main_Bgc);
+    border-top: 1px solid #ddd;
 }
 
 .footer .footerIn .inner {
